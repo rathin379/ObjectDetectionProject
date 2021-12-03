@@ -1,3 +1,3 @@
 function function1(){
-    window.location=""
+    window.location="image1.html"
 }
